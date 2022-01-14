@@ -24,7 +24,7 @@ The above command also ensures that the MongoDB engine runs after restarting you
 
 More info about installing MongoDB using Homebrew can be found [here](https://github.com/mongodb/homebrew-brew).
 
-## Windows Subsystem for Linux (WSL) Instructions 
+## Debian/Ubuntu Linux + Windows Subsystem for Linux (WSL) Instructions 
 
 Install MongoDB using apt using the following command:
 
