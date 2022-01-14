@@ -61,9 +61,11 @@ Install the MongoDB .msi installer from the website [here](https://www.mongodb.c
 3. Click on "Environment Variables in the System Properties Menu.
 4. Click on "PATH" under "User variables"
 5. Click on the "Edit" button
+
     ![Environment Variables](https://i.imgur.com/wZfwwsT.png)
 
 6. Click on the "New" button in the "Edit environment variable pop-up menu and paste in the path to the `bin` folder.
+
     ![PATH](https://i.imgur.com/FzgEpBL.png)
 
 7. Restart Powershell, and try running the `mongo` command!
