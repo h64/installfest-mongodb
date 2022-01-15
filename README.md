@@ -48,7 +48,7 @@ Install the MongoDB .msi installer from the website [here](https://www.mongodb.c
 
 ### Add the `bin` folder to PATH
 
-1. Find your `bin` folder. Most likely will be in `C:\Program Files\MongoDB\5.0\bin`
+1. Find your `bin` folder. Most likely will be in `C:\Program Files\MongoDB\Server\5.0\bin`
 
     ![Program Files](https://i.imgur.com/iiBWVmW.png)
 
